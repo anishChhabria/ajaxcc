@@ -1,7 +1,7 @@
 <?php
 
 // Connect to a database
-$conn = mysqli_connect('localhost', 'root', '123456', 'ajaxtest');
+$conn = mysqli_connect('localhost', 'root', '1234', 'ajaxtest');
 
 echo 'Processing...';
 
